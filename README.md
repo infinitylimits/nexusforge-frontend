@@ -38,8 +38,7 @@ src/
   pages/               Login, Register, Home, Projects, Posts, PostDetail, Feed, Profile, Admin
 ```
 
-## Screenshots
-[add 2 or 3 screenshots here later]
+
 
 ## Author
 Piyush Chawla
